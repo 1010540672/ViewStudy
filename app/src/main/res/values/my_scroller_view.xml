@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyScrollerView">
+        <attr name="test_attr" format="color"/>
+        <attr name="test_width" format="dimension"/>
+        <attr name="test_height" format="dimension"/>
+
+    </declare-styleable>
+
+
+</resources>
